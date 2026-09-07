@@ -582,7 +582,7 @@ async function initializeWebsite() {
         // Keep the loading screen visible instead of showing a broken website.
 
         loadingScreen.innerHTML = `
-            <div class="loadingError">
+            <div class="loadingError" style="color:white">
                 <h2>Something went wrong</h2>
                 <p>Please refresh the page.</p>
             </div>
