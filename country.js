@@ -1345,6 +1345,6 @@ async function displayCountryData(data) {
     }
     catch (error) {
 
-        Distance.textContent = "📍 Distance : Location unavailable";
+        Distance.textContent = "📍 Distance : location permission is probably off";
     }
 }
