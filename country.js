@@ -64,7 +64,7 @@ function getScreenAltitudeAndSpeed() {
 
     if (smallPhone.matches) {
         return {
-            initial: 3.5,
+            initial: 3.2,
             search: 2.7,
             rotateSpeed: 0.9
         };
