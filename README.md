@@ -45,14 +45,19 @@ https://world-explorer-iota-five.vercel.app/
 
 This project is built using front-end technologies and does not require a traditional backend server.
 
+## 📜 License & Copyright
+
+Copyright © 2026 Raven. All rights reserved.
+
+This repository is publicly accessible for viewing and educational reference only.
+
+See [LICENSE](LICENSE) for details.
+
 ## 👩‍💻 Developer
 
-**Raven**
-
-Front-end Developer
+*Made with ♡ by Raven.exe*
 
 GitHub: [@raven-exe0](https://github.com/raven-exe0)
 
 ---
 
-*Made with ♡ by Raven.exe*
