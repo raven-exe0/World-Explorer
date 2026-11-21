@@ -1,4 +1,4 @@
-🌍 World Explorer
+# 🌍 World Explorer 🌍
 
 ### Explore the world, one country at a time.
 
